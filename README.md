@@ -1,5 +1,5 @@
 # Galeria-html-css
-Este proyecto se basa en crear una galeria imagenes usando HTML y CSS, aplicando Grid.
+Este es una galeria imagenes usando HTML y CSS, aplicando Grid.
 
 ## Autor
 **Ricardo Balducci**
