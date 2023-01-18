@@ -1,8 +1,7 @@
-# Galeria-html-css
-Este proyecto es una galeria imagenes usando HTML y CSS, aplicando Grid.
-
-## Autor
+# Image gallery
+This project is an image gallery using HTML and CSS, applying Grid.
+## Authors
 **Ricardo Balducci**
+## Screenshots
 
-## Captura de pantalla
-[![galeria-de-imagenes.png](https://i.postimg.cc/rpMYstR9/galeria-de-imagenes.png)](https://postimg.cc/hXZ03vrJ)
+[![Proyecto-ahorcado-C.png](https://i.postimg.cc/rFcc6gqh/Proyecto-ahorcado-C.png)](https://postimg.cc/py03zfh8)
